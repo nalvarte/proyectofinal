@@ -41,7 +41,7 @@ public class Empleado {
     // Otra versión del método de antes, en esta pone "Nuevo salario" en vez de "Introduce salario".
      public static void pedirSalarioBase(){
         Scanner sc= new Scanner(System.in);
-        System.out.print("Nuevo salario base: ");
+        System.out.print("Introduce el nuevo salario base: ");
         salarioBase=sc.nextDouble();
         
     }
