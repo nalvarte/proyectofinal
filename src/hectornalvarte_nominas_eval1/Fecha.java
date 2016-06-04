@@ -96,7 +96,7 @@ public class Fecha {
                 terminar=true;
             }
           else{
-                System.out.println("Fecha incorrecta"); // Muestra que la fecha es incorrecta
+                System.out.println("¡Fecha incorrecta!"); // Muestra que la fecha es incorrecta
             }
         }
     }
